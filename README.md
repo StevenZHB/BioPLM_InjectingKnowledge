@@ -11,11 +11,13 @@ We propose a simple-yet-effective approach to inject relational knowledge into P
 
 We release the data and pretrained model weights in this repository.
 
-## Data
-In our paper, we conducted an experiment to probe the knowledge of which subjects are replaced by synonyms or hyponyms. You can download our dataset from [here](data/additional_triples.zip). The data format is the same as [BioLAMA](https://github.com/dmis-lab/BioLAMA). 
 
 ## Pretrained Model
 We release the pretrained model weights of our model on huggingface. You can download the model weights from [here](https://huggingface.co/StevenZHB/Bio-Inject-Bert).
+
+## Data
+In our paper, we conducted an experiment to probe the knowledge of which subjects are replaced by synonyms or hyponyms. You can download our dataset from [here](data/additional_triples.zip). The data format is the same as [BioLAMA](https://github.com/dmis-lab/BioLAMA). 
+
 
 ## Citation
 ```bibtex
